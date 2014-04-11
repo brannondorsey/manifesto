@@ -1,4 +1,4 @@
-# A Young Art and Technologist’s Manifesto
+# A Young Art & Technologist’s Manifesto
 **A charge for making art with (and without) technology in 2014 by [Brannon Dorsey](http://brannondorsey.com).**
 
 1. Don’t reject. Learn, make, fail, and grow without the intentions to make something that renders something else insignificant.
